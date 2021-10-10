@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/../../java8-plus-features/java-9-modules-springboot/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../java8-plus-features/java-9-modules-springboot/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../java8-plus-features/java-9-modules-springboot">
+      <excludeFolder url="file://$MODULE_DIR$/../../java8-plus-features/java-9-modules-springboot/${project.build.directory}/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../java8-plus-features/java-9-modules-springboot/${project.build.directory}/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../java8-plus-features/java-9-modules-springboot/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
