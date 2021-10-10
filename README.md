@@ -1,5 +1,5 @@
 # java8-plus-features
-Java 8+ features 
+This repo will contain a documentation about the most import features of java after java 8 ,the motivation behind this repository is that java 17 oracle jdk is free LTS release from oracle, thus people like me who have been using java 8 for years now have a lot to keep up with and this document have to with keeping up.
 
 # Java 9
 
