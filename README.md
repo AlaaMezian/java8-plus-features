@@ -4,6 +4,8 @@ This repo will contain a documentation about the most import features of java af
 # Java 9
 
 # Modular System 
+
+Lets say moduliraty is the best approach when writing an application, the re usability aspect along side and code speration are the most important benifits when it comes to writing clean code and java modules have to do just that.
 ```
 module com.baeldung.java9.modules.car {
     requires com.baeldung.java9.modules.engines;
