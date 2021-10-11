@@ -20,4 +20,4 @@ module com.baeldung.java9.modules.car {
 
 # New Http Client 
 
-The new Http Client Provided by java 9 10 11 have some greate features one of them is it support async api calls , easy connection to web sockets and default support for HTTP2
+The new Http Client Provided by java 9 10 11 have some great features one of them is it support async api calls, easy connection to web sockets and default support for HTTP2
