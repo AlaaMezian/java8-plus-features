@@ -35,4 +35,4 @@ Java 8 brought us default methods on interfaces. An interface can now also conta
 But what happens if you have several default methods on an interface with code that does almost the same thing? Normally, you'd refactor those methods to call a private method containing the shared functionality. 
 
 But default methods can't be private. Creating another default method with the shared code is not a solution,
-because this helper method becomes part of the public API. With Java 9, you can add private helper methods to interfaces to solve this problem:
+because this helper method becomes part of the public API. With Java 9, you can add private helper methods to interfaces to solve this problem
