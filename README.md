@@ -55,3 +55,9 @@ Such as dropWhile , takeWhile , Stream.iterate and Stream of Nullable
 # Java 9 way of initializing map and set
 
 Java 9 comes with various factory methods in the Map interface that simplify the creation and initialization of immutable maps and sets.
+
+# Java 10
+
+# Local Variable Type Inference 
+
+the introduction of var even though java is a strongly typed language the option to have a loosely type var keyword come in handy sometimes
