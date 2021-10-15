@@ -52,3 +52,6 @@ In Java 9, Stream API has improved and new methods are added to the Stream inter
 
 Such as dropWhile , takeWhile , Stream.iterate and Stream of Nullable
 
+# Java 9 way of initializing map and set
+
+Java 9 comes with various factory methods in the Map interface that simplify the creation and initialization of immutable maps and sets.
