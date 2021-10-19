@@ -61,3 +61,22 @@ Java 9 comes with various factory methods in the Map interface that simplify the
 # Local Variable Type Inference 
 
 the introduction of var even though java is a strongly typed language the option to have a loosely type var keyword come in handy sometimes
+
+# Java 11
+
+# New String Methods
+Java 11 adds a few new methods to the String class: isBlank, lines, strip, stripLeading, stripTrailing, and repeat.
+
+# New File Methods
+
+Java 11 adds an easier way to read and write string to file with the introduction of readString and writeString static methods from the Files.
+
+# Collection to Array 
+
+The java.util.Collection interface contains a new default toArray method which takes an IntFunction argument.
+
+This makes it easier to create an array of the right type from a collection
+
+# The Not Predicate
+
+The not Predicate can be use with filter to make it read more naturally and other uses.
