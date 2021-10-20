@@ -80,3 +80,20 @@ This makes it easier to create an array of the right type from a collection
 # The Not Predicate
 
 The not Predicate can be use with filter to make it read more naturally and other uses.
+
+# Running Java Files 
+
+A major change in this version is that we don't need to compile the java 
+
+source files with javac explicitly any more example:
+
+we can use java JavaFileName instead of javac JavaFileName.java
+
+# A No-Op Garbage Collector
+
+A new garbage collector called Epsilon is available for use in Java 11 as an experimental feature.
+
+It's called a No-Op (no operations) because it allocates memory but does not actually collect any garbage. Thus, Epsilon is applicable for simulating out of memory errors.
+
+It can be used for performance testing , memory pressure testing ...etc.
+
