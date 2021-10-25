@@ -97,3 +97,10 @@ It's called a No-Op (no operations) because it allocates memory but does not act
 
 It can be used for performance testing , memory pressure testing ...etc.
 
+#Java 12 
+
+#New String Methods 
+
+The first one – indent adjusts the indentation of each line based on the integer parameter. If the parameter is greater than zero, new spaces will be inserted at the beginning of each line. On the other hand, if the parameter is less than zero, it removes spaces from the begging of each line. If a given line does not contain sufficient white space, then all leading white space characters are removed.
+
+The second new method is transform. It accepts a single argument function as a parameter that will be applied to the string.
