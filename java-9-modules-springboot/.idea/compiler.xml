@@ -14,7 +14,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api" options="-parameters" />
-      <module name="java-9-modules-springboot" options="-parameters" />
+      <module name="java-9-modules-springboot" options="" />
       <module name="service" options="-parameters" />
     </option>
   </component>

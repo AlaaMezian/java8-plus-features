@@ -104,3 +104,9 @@ It can be used for performance testing , memory pressure testing ...etc.
 The first one – indent adjusts the indentation of each line based on the integer parameter. If the parameter is greater than zero, new spaces will be inserted at the beginning of each line. On the other hand, if the parameter is less than zero, it removes spaces from the begging of each line. If a given line does not contain sufficient white space, then all leading white space characters are removed.
 
 The second new method is transform. It accepts a single argument function as a parameter that will be applied to the string.
+
+# File mismatch Method
+
+The method is used to compare two files and find the position of the first mismatched byte in their contents.
+
+The return value will be in the inclusive range of 0L up to the byte size of the smaller file or -1L if the files are identical.
